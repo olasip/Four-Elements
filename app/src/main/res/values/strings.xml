@@ -6,4 +6,17 @@
     <string name="textTwojąPostać">Twoją postać symbolizuje żywioł. Jeżeli grasz pierwszy raz wybierz ten, który najlepiej odpowiada Twojej naturze.</string>
     <string name="buttonWater">TODO</string>
     <string name="pageoneimage">TODO</string>
+    <string name="textjestes_piratem">JESTEŚ PIRATEM</string>
+    <string name="textpladrujesz_">Plądrujesz, pijesz i wyruszasz w nieznane aby przeżyć kolejne dni. Nie jesteś bogaty, ani biedny. Ubrania masz splamione krwią, chodzisz wiecznie pijany w sztok, nosisz opaskę na lewym oku i śmierdzisz jak beczka zdechłych flądr. Masz szacunek u kamratów i wierzą, że mógłbyś zostać nowym kapitanem. Jednym słowem, wymiatasz!</string>
+    <string name="button_porywasz">Porywasz królewnę</string>
+    <string name="textco_dalej">Co dalej?</string>
+    <string name="textnic_nie_zmieniasz">Nic nie zmieniasz</string>
+    <string name="textidziesz_do_aa">Idziesz do AA</string>
+    <string name="titlenic_nie_zmieniasz">NIC NIE ZMIENIASZ</string>
+    <string name="text2pladrujesz">Plądrujesz, pijesz i wyruszasz w nieznane aby przeżyć kolejne dni. Nie jesteś bogaty, ani biedny. Ubrania masz splamione krwią, chodzisz wiecznie pijany w sztok, nosisz opaskę na lewym oku i śmierdzisz jak beczka zdechłych flądr. Masz szacunek u kamratów i wierzą, że mógłbyś zostać nowym kapitanem. Jednym słowem, wymiatasz!</string>
+    <string name="textpewnego_dnia">Pewnego dnia, przy jednej z biesiad, jedząc jeszcze niezepsute żarcie i chlejąc mocny niczym śpiew syren rum, ze stołu spada jabłko.</string>
+    <string name="textpodnosisz">Podnosisz</string>
+    <string name="textignorujesz">Ignorujesz</string>
+    <string name="textco_robisz">Co robisz?</string>
+    <string name="appleimage">TODO</string>
 </resources>

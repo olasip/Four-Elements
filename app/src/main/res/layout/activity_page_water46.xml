@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="Water.PageWater46">
+    tools:context=".Water.PageWater46">
 
     <TextView
         android:id="@+id/textView4"
@@ -13,7 +13,7 @@
         android:layout_marginEnd="8dp"
         android:layout_marginStart="8dp"
         android:layout_marginTop="32dp"
-        android:text="JESTEŚ PIRATEM"
+        android:text="@string/textjestes_piratem"
         android:textAlignment="center"
         android:textColor="@android:color/background_dark"
         android:textSize="30sp"
@@ -28,7 +28,7 @@
         android:layout_marginEnd="8dp"
         android:layout_marginStart="8dp"
         android:layout_marginTop="24dp"
-        android:text="Plądrujesz, pijesz i wyruszasz w nieznane aby przeżyć kolejne dni. Nie jesteś bogaty, ani biedny. Ubrania masz splamione krwią, chodzisz wiecznie pijany w sztok, nosisz opaskę na lewym oku i śmierdzisz jak beczka zdechłych flądr. Masz szacunek u kamratów i wierzą, że mógłbyś zostać nowym kapitanem. Jednym słowem, wymiatasz!"
+        android:text="@string/textpladrujesz_"
         android:textAlignment="center"
         android:textColor="@android:color/background_dark"
         android:textSize="18sp"
@@ -55,12 +55,12 @@
         android:layout_marginEnd="8dp"
         android:layout_marginStart="8dp"
         android:layout_marginTop="32dp"
-        android:text="Co dalej?"
+        android:text="@string/textco_dalej"
         android:textAlignment="center"
         android:textColor="@android:color/background_dark"
         android:textSize="18sp"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.858"
+        app:layout_constraintHorizontal_bias="0.877"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView5" />
 
@@ -72,7 +72,7 @@
         android:layout_marginStart="8dp"
         android:layout_marginTop="16dp"
         android:background="@drawable/button_choose"
-        android:text="Nic nie zmieniasz"
+        android:text="@string/textnic_nie_zmieniasz"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.922"
         app:layout_constraintStart_toStartOf="parent"
@@ -86,7 +86,7 @@
         android:layout_marginStart="8dp"
         android:layout_marginTop="8dp"
         android:background="@drawable/button_choose"
-        android:text="Idziesz do AA"
+        android:text="@string/textidziesz_do_aa"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.922"
         app:layout_constraintStart_toStartOf="parent"
@@ -100,7 +100,7 @@
         android:layout_marginEnd="26dp"
         android:layout_marginTop="8dp"
         android:background="@drawable/button_choose"
-        android:text="Porywasz królewnę"
+        android:text="@string/button_porywasz"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/button3"
