@@ -1,8 +1,9 @@
-package com.example.aleksandra.fourelements
+package com.example.aleksandra.fourelements.Water
 
 import android.content.Intent
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
+import com.example.aleksandra.fourelements.R
 import kotlinx.android.synthetic.main.activity_page_one.*
 
 class PageOne : AppCompatActivity() {
