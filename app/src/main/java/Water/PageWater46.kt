@@ -1,7 +1,8 @@
-package com.example.aleksandra.fourelements
+package Water
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
+import com.example.aleksandra.fourelements.R
 
 class PageWater46 : AppCompatActivity() {
 
