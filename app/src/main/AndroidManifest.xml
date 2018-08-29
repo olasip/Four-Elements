@@ -18,7 +18,8 @@
         </activity>
         <activity android:name=".Water.PageWater46" />
         <activity android:name=".Water.PageWater47" />
-        <activity android:name=".Water.PageWater72podnosisz"></activity>
+        <activity android:name=".Water.PageWater72podnosisz" />
+        <activity android:name=".Water.PageWater48ignorujesz"></activity>
     </application>
 
 </manifest>
