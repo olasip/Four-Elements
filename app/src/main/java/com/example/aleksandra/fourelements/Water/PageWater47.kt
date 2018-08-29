@@ -12,9 +12,14 @@ class PageWater47 : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_page_water47)
 
-        nicniezmieniaszBtn.setOnClickListener {
-            val podnosiszIntent = Intent (this, PageWater72podnosisz::class.java)
+        podnosiszBtn.setOnClickListener {
+            val podnosiszIntent = Intent(this, PageWater72podnosisz::class.java)
             startActivity(podnosiszIntent)
+        }
+
+        ignorujeszBtn.setOnClickListener {
+            val ignorujeszIntent = Intent(this, PageWater48ignorujesz::class.java)
+            startActivity(ignorujeszIntent)
         }
 
 
