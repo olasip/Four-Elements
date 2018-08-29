@@ -19,4 +19,12 @@
     <string name="textignorujesz">Ignorujesz</string>
     <string name="textco_robisz">Co robisz?</string>
     <string name="appleimage">TODO</string>
+    <string name="button48zagraj_jeszcze_raz">Zagraj jeszcze raz</string>
+    <string name="text48koniec_gry">KONIEC GRY</string>
+    <string name="text48po_dlugim">Po długim przypatrywaniu się jabłku w końcu go podnosisz. Z chwilą powrotu na krzesło dochodzisz do odkrycia prawa ciężkości! Mimo, że nie znasz wzorów fizyki opowiadasz kamratom o całej sytuacji. Nikt nie rozumie, ale tym lepiej dla Ciebie. Zostajesz uznany za najmądrzejszego pirata w historii i mianują Cię swoim kapitanem i mędrcem. Twoja postać na zawsze zostaje zachowana w pamięci pirackich legend.</string>
+    <string name="textview_android_id48"><![CDATA[<TextView android:id=]]></string>
+    <string name="text48ignorujesz_jab_ko">IGNORUJESZ JABŁKO</string>
+    <string name="string48zagraj_jeszcze_raz">Zagraj jeszcze raz</string>
+    <string name="text48koniec_gry">KONIEC GRY</string>
+    <string name="text48zignorowane">Zignorowane jabłko pozostało nienaruszone. Nikt inny nie zwrócił na nie uwagi i już nigdy nie zostało podniesione. Przez dnie leżało w jednej pozycji samotne i nietknięte.</string>
 </resources>
