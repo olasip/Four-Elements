@@ -25,6 +25,10 @@
     <string name="textview_android_id48"><![CDATA[<TextView android:id=]]></string>
     <string name="text48ignorujesz_jab_ko">IGNORUJESZ JABŁKO</string>
     <string name="string48zagraj_jeszcze_raz">Zagraj jeszcze raz</string>
-    <string name="text48koniec_gry">KONIEC GRY</string>
+    <string name="text48koniec_gryx">KONIEC GRY</string>
     <string name="text48zignorowane">Zignorowane jabłko pozostało nienaruszone. Nikt inny nie zwrócił na nie uwagi i już nigdy nie zostało podniesione. Przez dnie leżało w jednej pozycji samotne i nietknięte.</string>
+    <string name="text48pewnego_dnia">Pewnego dnia rozpętał się ogromny sztorm i jabłko wypadło za burtę. Z powodu zniszczeń statek zatonął, wraz z nim Ty i wszystko co na nim było. Natomiast jabłko popychane siłą fal znalazło się na bezludnej wyspie. Z czasem zaczęło się rozkładać i łączyć z ziemią na której leżało. Nasiona weszły w glebę i wyrosła z nich jabłoń. Drzewo zrozumiało to czym jest i pomyślało “Kurwa, jestem zajebisty”.</string>
+    <string name="text48podnosisz">PODNOSISZ</string>
+    <string name="buttonzapisujesz">zapisujesz się na spotkania Anonimowych Alkocholików</string>
+    <string name="imagePirate">TODO</string>
 </resources>

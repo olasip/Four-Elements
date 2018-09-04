@@ -38,14 +38,17 @@
 
     <ImageView
         android:id="@+id/imageView3"
-        android:layout_width="213dp"
-        android:layout_height="315dp"
+        android:layout_width="236dp"
+        android:layout_height="275dp"
         android:layout_marginEnd="8dp"
+        android:layout_marginTop="8dp"
+        android:contentDescription="@string/imagePirate"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toStartOf="@+id/textView6"
         app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView5"
+        app:layout_constraintVertical_bias="1.0"
         app:srcCompat="@drawable/pirat" />
 
     <TextView
@@ -67,7 +70,7 @@
     <Button
         android:id="@+id/nicniezmieniaszBtn"
         android:layout_width="135dp"
-        android:layout_height="36dp"
+        android:layout_height="54dp"
         android:layout_marginEnd="8dp"
         android:layout_marginStart="8dp"
         android:layout_marginTop="16dp"
@@ -80,13 +83,13 @@
 
     <Button
         android:id="@+id/button3"
-        android:layout_width="135dp"
-        android:layout_height="35dp"
+        android:layout_width="136dp"
+        android:layout_height="73dp"
         android:layout_marginEnd="8dp"
         android:layout_marginStart="8dp"
         android:layout_marginTop="8dp"
         android:background="@drawable/button_choose"
-        android:text="@string/textidziesz_do_aa"
+        android:text="@string/buttonzapisujesz"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.922"
         app:layout_constraintStart_toStartOf="parent"
@@ -95,7 +98,7 @@
     <Button
         android:id="@+id/button4"
         android:layout_width="135dp"
-        android:layout_height="35dp"
+        android:layout_height="54dp"
         android:layout_marginBottom="8dp"
         android:layout_marginEnd="26dp"
         android:layout_marginTop="8dp"
